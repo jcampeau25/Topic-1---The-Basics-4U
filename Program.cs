@@ -59,6 +59,117 @@
             Console.WriteLine(songLyrics.EndsWith("hello"));
             Console.WriteLine(songLyrics.EndsWith("goodbye"));
 
+            // assignment
+            Console.WriteLine();
+            Console.WriteLine("Assignment");
+            Console.WriteLine("~~~~~~~~~~~~~~~");
+
+            // Part 1
+
+            string firstName = ("Josh");
+            string favMovie = ("The Matrix");
+
+            Console.WriteLine("hello " + firstName.ToLower() + " welcome to " + favMovie.ToLower());
+
+            favMovie = favMovie.ToUpper();
+            Console.WriteLine(favMovie);
+
+            Console.WriteLine(favMovie.Contains("THE"));
+            favMovie = favMovie.Replace("A", "@");
+            favMovie = favMovie.Replace("E", "3");
+            Console.WriteLine(favMovie);
+
+            // Part 2
+
+            Console.WriteLine();
+            string quote = ("Our deepest fear is not that we are inadequate, our deepest fear is that we are powerful beyond measure");
+
+            quote = quote.ToUpper();
+
+            quote = quote.Replace("A", "");
+            quote = quote.Replace("E", "");
+            quote = quote.Replace("I", "");
+            quote = quote.Replace("O", "");
+            quote = quote.Replace("U", "");
+
+            Console.WriteLine(quote);
+
+
+
+
+
+
+            Console.WriteLine("          _ _               ");
+            Console.Write(" |\\/\\/\\/|");
+            Console.WriteLine("     _(,_/ \\ \\____________  ");
+            Console.WriteLine(" |      |");
+            Console.WriteLine("     |`. \\_@_@   `.     ,'  ");
+
+            Console.WriteLine("     |\\ \\ .        `-,-'    ");
+
+            Console.WriteLine("     || |  `-.____,-'       ");
+
+            Console.WriteLine("     || /  /                ");
+
+            Console.WriteLine("     |/ |  |                ");
+
+            Console.WriteLine("`..     /   \\               ");
+
+            Console.WriteLine("  \\   /    |                ");
+
+            Console.WriteLine("  ||  |      \\              ");
+
+            Console.WriteLine("   \\ /-.    |               ");
+
+            Console.WriteLine("   ||/  /_   |              ");
+
+            Console.WriteLine("   \\(_____)-'_))            ");
+
+
+            Console.WriteLine(" |\\/\\/\\/|          ");
+
+            Console.WriteLine(" |      |          ");
+
+            Console.WriteLine(" |      |          ");
+
+            Console.WriteLine(" | (o)(o)          ");
+
+            Console.WriteLine(" C      _)         ");
+
+            Console.WriteLine("  | ,___ |         ");
+
+            Console.WriteLine("  |   /            ");
+
+            Console.WriteLine(" / ____\\           ");
+
+            Console.WriteLine("/       \\          ");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         }
     }
