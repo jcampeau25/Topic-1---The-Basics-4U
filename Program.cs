@@ -99,50 +99,34 @@
 
 
 
-            Console.WriteLine("          _ _               ");
-            Console.Write(" |\\/\\/\\/|");
+            Console.WriteLine("                             _ _               ");
+            Console.Write(" |\\/\\/\\/|          ");
             Console.WriteLine("     _(,_/ \\ \\____________  ");
-            Console.WriteLine(" |      |");
+            Console.Write(" |      |          ");
             Console.WriteLine("     |`. \\_@_@   `.     ,'  ");
-
+            Console.Write(" |      |          ");
             Console.WriteLine("     |\\ \\ .        `-,-'    ");
-
+            Console.Write(" | (o)(o)          ");
             Console.WriteLine("     || |  `-.____,-'       ");
-
+            Console.Write(" C      _)         ");
             Console.WriteLine("     || /  /                ");
-
+            Console.Write("  | ,___ |         ");
             Console.WriteLine("     |/ |  |                ");
-
+            Console.Write("  |   /            ");
             Console.WriteLine("`..     /   \\               ");
-
-            Console.WriteLine("  \\   /    |                ");
-
+            Console.Write(" / ____\\           ");
+            Console.WriteLine("  \\\\   /    |                ");
+            Console.Write("/       \\          ");
             Console.WriteLine("  ||  |      \\              ");
 
-            Console.WriteLine("   \\ /-.    |               ");
+            Console.WriteLine("                      \\\\ /-.    |               ");
 
-            Console.WriteLine("   ||/  /_   |              ");
+            Console.WriteLine("                      ||/  /_   |              ");
 
-            Console.WriteLine("   \\(_____)-'_))            ");
+            Console.WriteLine("                      \\(_____)-'_))            ");
 
 
-            Console.WriteLine(" |\\/\\/\\/|          ");
 
-            Console.WriteLine(" |      |          ");
-
-            Console.WriteLine(" |      |          ");
-
-            Console.WriteLine(" | (o)(o)          ");
-
-            Console.WriteLine(" C      _)         ");
-
-            Console.WriteLine("  | ,___ |         ");
-
-            Console.WriteLine("  |   /            ");
-
-            Console.WriteLine(" / ____\\           ");
-
-            Console.WriteLine("/       \\          ");
 
 
 
